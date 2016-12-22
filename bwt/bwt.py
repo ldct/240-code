@@ -70,5 +70,5 @@ def check_random(n):
 check('alf_eats_alfafa$')
 check('abaaba$')
 
-for _ in range(100):
-	check_random(1000)
+for _ in range(1000):
+	check_random(100)
